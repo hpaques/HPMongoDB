@@ -1,5 +1,5 @@
 {
-  "name": "compose-mongodb-helloworld-nodejs",
+  "name": "HPMongoDB",
   "version": "0.0.0",
   "dependencies": {
     "body-parser": "^1.15.2",
@@ -17,17 +17,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/IBM-Bluemix/compose-mongodb-helloworld-nodejs.git"
+    "url": "https://github.com/hpaques/HPMongoDB.git"
   },
-  "author": "IBM Corp.",
-  "contributors": [
-    {
-      "name": "Neil Dewhurst",
-      "email": "ndewhurs@uk.ibm.com"
-    }
-  ],
+  "author": "HP2017",
   "bugs": {
-    "url": "https://github.com/IBM-Bluemix/compose-mongodb-helloworld-nodejs/issues"
+    "url": "https://github.com/hpaques/HPMongoDB/issues"
   },
   "license": "Apache-2.0"
 }

@@ -4,4 +4,4 @@ applications:
   host:    HPMongoDB
   memory:  128M
   services:
-    - my-compose-for-mongodb-service
+    - HPMongoDB-service
